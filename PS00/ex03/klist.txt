@@ -1,0 +1,5 @@
+Credentials cache: API:57408
+        Principal: mhaman@LE-101.FR
+
+		  Issued                Expires               Principal
+		  Jul  2 07:55:23 2019  Jul  2 17:55:23 2019  krbtgt/LE-101.FR@LE-101.FR
